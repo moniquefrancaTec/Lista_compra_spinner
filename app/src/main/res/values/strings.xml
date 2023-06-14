@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Tarefa02_lista_Compras</string>
+    <string name="txt_limpar">Limpar</string>
+    <string name="txt_finalizar">Finalizar</string>
+    <string name="txt_salvar">Salvar</string>
+    <string name="txt_local">Local</string>
+    <string name="txt_quantidade">Quantidade</string>
+    <string name="txt_nome_do_tem">Nome do ítem</string>
+    <string name="txt_lista_de_compras">Lista de Compras</string>
+    <string name="selecione_o_local">Selecione o Local:</string>
+    <string name="selecione_o_item">Selecione o item:</string>
+</resources>
